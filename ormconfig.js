@@ -12,6 +12,6 @@ module.exports =
       "migrationsDir": "./src/migrations"
     },
 
-    "logging": true,
+    "logging": false,
     "syncronize": true
   }
